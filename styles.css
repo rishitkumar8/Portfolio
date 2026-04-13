@@ -427,7 +427,7 @@ strong {
 
 .image-frame img {
     width: 150%;
-    height: 120%;
+    height: 110%;
     object-fit: cover;
     transition: transform 0.6s ease;
 }
